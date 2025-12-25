@@ -1,0 +1,14 @@
+{
+    "best_params": {
+        "lgbm__bagging_fraction": 0.8916028672163949,
+        "lgbm__bagging_freq": 1,
+        "lgbm__cat_smooth": 27,
+        "lgbm__feature_fraction": 0.6296178606936361,
+        "lgbm__learning_rate": 0.11753971856328177,
+        "lgbm__max_depth": -1,
+        "lgbm__min_child_samples": 16,
+        "lgbm__n_estimators": 171,
+        "lgbm__num_leaves": 31
+    },
+    "best_cv_auc": 0.7238565372298652
+}

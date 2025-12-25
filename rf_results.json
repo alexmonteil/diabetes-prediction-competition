@@ -1,0 +1,11 @@
+{
+    "best_params": {
+        "rf__bootstrap": true,
+        "rf__max_depth": 30,
+        "rf__max_features": "log2",
+        "rf__min_samples_leaf": 12,
+        "rf__min_samples_split": 16,
+        "rf__n_estimators": 221
+    },
+    "best_cv_auc": 0.699341524182406
+}

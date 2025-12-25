@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# saved models
+*.pkl
+*.pickle
+*.joblib
