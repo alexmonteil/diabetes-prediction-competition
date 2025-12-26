@@ -1,8 +1,0 @@
-{
-    "best_params": {
-        "knn__weights": "uniform",
-        "knn__p": 1,
-        "knn__n_neighbors": 15
-    },
-    "best_cv_auc": 0.6609936800160042
-}

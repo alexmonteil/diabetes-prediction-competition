@@ -9,16 +9,20 @@
         "l1_ratios": [
             1
         ],
-        "max_iter": 100,
-        "n_jobs": null,
-        "penalty": "deprecated",
-        "random_state": null,
+        "max_iter": 5000,
+        "n_jobs": 3,
+        "penalty": "elasticnet",
+        "random_state": 42,
         "refit": true,
         "scoring": "roc_auc",
         "solver": "saga",
         "tol": 0.0001,
-        "use_legacy_attributes": false,
+        "use_legacy_attributes": "warn",
         "verbose": 0
     },
-    "best_cv_auc": 0.6927322121274163
+    "best_cv_auc": 0.6935782986786219,
+    "best_test_auc": 0.6935552469144044,
+    "random_seed": 42,
+    "max_iter": 5000,
+    "penalty": "lasso (l1)"
 }

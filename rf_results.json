@@ -1,11 +1,15 @@
 {
     "best_params": {
-        "rf__bootstrap": true,
-        "rf__max_depth": 30,
-        "rf__max_features": "log2",
-        "rf__min_samples_leaf": 12,
-        "rf__min_samples_split": 16,
-        "rf__n_estimators": 221
+        "n_estimators": 398,
+        "max_depth": 19,
+        "min_samples_split": 17,
+        "min_samples_leaf": 9,
+        "max_features": "sqrt",
+        "criterion": "gini",
+        "min_impurity_decrease": 9.45107963635212e-06
     },
-    "best_cv_auc": 0.699341524182406
+    "best_cv_auc": 0.6967968805187321,
+    "best_test_auc": 0.6985849328283313,
+    "n_trials": 30,
+    "random_seed": 42
 }
