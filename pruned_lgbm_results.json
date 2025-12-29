@@ -1,0 +1,18 @@
+{
+    "best_params": {
+        "n_estimators": 996,
+        "learning_rate": 0.03292213908885871,
+        "num_leaves": 20,
+        "max_depth": 10,
+        "min_child_samples": 66,
+        "feature_fraction": 0.7849976169018046,
+        "bagging_fraction": 0.9311408552524828,
+        "bagging_freq": 7,
+        "lambda_l1": 8.088566748513532e-08,
+        "lambda_l2": 6.168331709719557
+    },
+    "best_cv_auc": 0.7165901449798416,
+    "best_test_auc": 0.7256106207202802,
+    "n_trials": 30,
+    "random_seed": 42
+}
