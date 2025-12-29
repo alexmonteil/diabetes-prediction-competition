@@ -1,0 +1,15 @@
+{
+    "best_params": {
+        "n_estimators": 197,
+        "max_depth": 20,
+        "min_samples_split": 20,
+        "min_samples_leaf": 9,
+        "max_features": "sqrt",
+        "criterion": "entropy",
+        "min_impurity_decrease": 0.0001143354043809584
+    },
+    "best_cv_auc": 0.6957172586654979,
+    "best_test_auc": 0.694423759919402,
+    "n_trials": 30,
+    "random_seed": 42
+}
